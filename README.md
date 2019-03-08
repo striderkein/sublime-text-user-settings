@@ -1,7 +1,7 @@
 sublime-text-user-settings
 ========================
 
-My personal Sublime Text 3 User Settings. Take a look at [sublime-text-user-settings/User/Package Control.sublime-settings](https://github.com/striderkein/sublime-text-user-settings/blob/master/User/Package%20Control.sublime-settings) for a list of my installed packages
+My personal Sublime Text 3 User Settings. Take a look at [sublime-text-user-settings/Package Control.sublime-settings](https://github.com/striderkein/sublime-text-user-settings/blob/master/Package%20Control.sublime-settings) for a list of my installed packages
 
 
 # Install/Update
