@@ -1,0 +1,12 @@
+#以下の拡張子は無視
+*.errors.log
+
+# 以下のファイルは無視
+Package Control.last-run
+Package Control.merged-ca-bundle
+Package Control.system-ca-bundle
+Package Control.user-ca-bundle
+oscrypto-ca-bundle.crt
+
+# 以下のディレクトリ内は無視
+Package Control.cache/
